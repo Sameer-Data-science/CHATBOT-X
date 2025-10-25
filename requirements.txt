@@ -1,0 +1,16 @@
+# Core web framework
+Flask==3.0.3
+
+# Environment variable management
+python-dotenv==1.0.1
+
+# LangChain core packages
+langchain==0.2.14
+langchain-community==0.2.11
+
+# Gemini (Google Generative AI) support for LangChain
+langchain-google-genai==1.0.7
+google-generativeai==0.7.2
+
+# Optional: for JSON, requests, or debugging
+requests==2.32.3
